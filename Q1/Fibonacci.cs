@@ -39,9 +39,11 @@ namespace Q1
             Console.ReadLine();
 
         }
-
+        
+         //recursividade
         static long Calcfib (long i)
         {
+           
             if(i == 0)
             {
                 return 0;
