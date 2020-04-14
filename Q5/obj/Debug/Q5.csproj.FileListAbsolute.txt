@@ -1,0 +1,14 @@
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q5\bin\Debug\Q5.exe.config
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q5\bin\Debug\Q5.exe
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q5\bin\Debug\Q5.pdb
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q5\obj\Debug\Q5.csprojAssemblyReference.cache
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q5\obj\Debug\Q5.exe
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q5\obj\Debug\Q5.pdb
+F:\Raquel\Desktop\Git\TesteRadix\Q5\bin\Debug\Q5.exe.config
+F:\Raquel\Desktop\Git\TesteRadix\Q5\bin\Debug\Q5.exe
+F:\Raquel\Desktop\Git\TesteRadix\Q5\bin\Debug\Q5.pdb
+F:\Raquel\Desktop\Git\TesteRadix\Q5\obj\Debug\Q5.csprojAssemblyReference.cache
+F:\Raquel\Desktop\Git\TesteRadix\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+F:\Raquel\Desktop\Git\TesteRadix\Q5\obj\Debug\Q5.exe
+F:\Raquel\Desktop\Git\TesteRadix\Q5\obj\Debug\Q5.pdb

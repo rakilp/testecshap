@@ -1,0 +1,14 @@
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q4\bin\Debug\Q4.exe.config
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q4\bin\Debug\Q4.exe
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q4\bin\Debug\Q4.pdb
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q4\obj\Debug\Q4.csprojAssemblyReference.cache
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q4\obj\Debug\Q4.exe
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q4\obj\Debug\Q4.pdb
+F:\Raquel\Desktop\Git\TesteRadix\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+F:\Raquel\Desktop\Git\TesteRadix\Q4\obj\Debug\Q4.exe
+F:\Raquel\Desktop\Git\TesteRadix\Q4\obj\Debug\Q4.pdb
+F:\Raquel\Desktop\Git\TesteRadix\Q4\bin\Debug\Q4.exe.config
+F:\Raquel\Desktop\Git\TesteRadix\Q4\bin\Debug\Q4.exe
+F:\Raquel\Desktop\Git\TesteRadix\Q4\bin\Debug\Q4.pdb
+F:\Raquel\Desktop\Git\TesteRadix\Q4\obj\Debug\Q4.csprojAssemblyReference.cache

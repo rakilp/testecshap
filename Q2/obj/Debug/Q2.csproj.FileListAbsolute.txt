@@ -1,0 +1,14 @@
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q2\bin\Debug\Q2.exe.config
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q2\bin\Debug\Q2.exe
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q2\bin\Debug\Q2.pdb
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q2\obj\Debug\Q2.exe
+F:\Raquel\Desktop\Git\teste\TesteRadix\Q2\obj\Debug\Q2.pdb
+F:\Raquel\Desktop\Git\TesteRadix\Q2\bin\Debug\Q2.exe.config
+F:\Raquel\Desktop\Git\TesteRadix\Q2\bin\Debug\Q2.exe
+F:\Raquel\Desktop\Git\TesteRadix\Q2\bin\Debug\Q2.pdb
+F:\Raquel\Desktop\Git\TesteRadix\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+F:\Raquel\Desktop\Git\TesteRadix\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+F:\Raquel\Desktop\Git\TesteRadix\Q2\obj\Debug\Q2.exe
+F:\Raquel\Desktop\Git\TesteRadix\Q2\obj\Debug\Q2.pdb

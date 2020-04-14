@@ -1,0 +1,8 @@
+﻿INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (1, 2)
+INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (1, 1)
+INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (1, 3)
+INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (1, 4)
+INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (2, 1)
+INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (3, 1)
+INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (3, 4)
+INSERT INTO [dbo].[funcionario_projeto] ([id_funcionario], [id_projeto]) VALUES (2, 3)
